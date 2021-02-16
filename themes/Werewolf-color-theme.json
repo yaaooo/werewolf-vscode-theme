@@ -9,7 +9,19 @@
 		"errorForeground": "#712cf1",
 		"icon.foreground": "#e4d9df",
 		"sash.hoverBorder": "#A81677",
+		"focusBorder": "#b9075f",
 		// Text colors
+		"textLink.foreground": "#24B6EB",
+		"textLink.activeForeground": "#3DEBC4",
+		// Buttons
+		"button.background": "#b9075f",
+		"button.secondaryBackground": "#7C1DDE",
+		// Dropdown control
+		"dropdown.border": "#3DEBC4",
+		"dropdown.foreground": "#3DEBC4",
+		// Input
+		"input.background": "#2B0012",
+		"input.border": "#59159E",
 		// List
 		"list.activeSelectionBackground": "#b9075f",
 		"list.inactiveSelectionBackground": "#800542",
@@ -17,10 +29,6 @@
 		"list.focusBackground": "#400C42",
 		// list - search matching
 		"list.highlightForeground": "#DE2654",
-		// Input
-		"input.background": "#10020e",
-		// Buttons
-		"button.background": "#b9075f",
 		// Title
 		"titleBar.activeBackground": "#4F0E69",
 		// Activity bar
@@ -35,7 +43,7 @@
 		// Quick input menu
 		"quickInput.background": "#1d0001",
 		// Badge
-		"badge.foreground": "#54c884",
+		"badge.foreground": "#34C7A7",
 		"badge.background": "#6c1339",
 		// Status bar
 		// "statusBar.foreground": "#E31B5A",
@@ -55,8 +63,6 @@
 		"editorBracketMatch.border": "#B39700",
 		"editorCursor.foreground": "#D12450",
 		"editor.lineHighlightBorder": "#59159E",
-		// Nullifies the Oceanic focus
-		"focusBorder": "#500f54",
 		// Terminal tweaks
 		"terminal.ansiYellow": "#fede89",
 		"terminal.ansiBlue": "#68649c",
@@ -65,7 +71,7 @@
 		"terminal.ansiCyan": "#2d8981",
 		"terminal.ansiBlack": "#04040c",
 		"terminal.ansiRed": "#ae0a14",
-		"terminalCursor.foreground": "#E81EA6"
+		"terminalCursor.foreground": "#E81EA6",
 	},
 	"tokenColors": [
 		{
