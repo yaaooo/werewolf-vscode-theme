@@ -30,25 +30,25 @@
 		// list - search matching
 		"list.highlightForeground": "#DE2654",
 		// Title
-		"titleBar.activeBackground": "#4F0E69",
+		"titleBar.activeBackground": "#3A0A4D",
 		// Activity bar
 		"activityBar.foreground": "#D12450",
-		"activityBar.background": "#1d0001",
-		"activityBar.border": "#A81677",
+		"activityBar.background": "#0f001d",
+		// "activityBar.border": "#A81677",
 		// Side bar
 		"sideBarTitle.foreground": "#DE2654",
-		"sideBarSectionHeader.foreground": "#d12475",
+		"sideBarSectionHeader.foreground": "#DE2654",
 		"sideBar.border": "#A81677",
-		"sideBar.background": "#260617",
+		"sideBar.background": "#260622",
 		// Quick input menu
 		"quickInput.background": "#1d0001",
 		// Badge
 		"badge.foreground": "#34C7A7",
 		"badge.background": "#6c1339",
 		// Status bar
-		// "statusBar.foreground": "#E31B5A",
-		"statusBar.background": "#4F0E69",
-		"statusBar.noFolderBackground": "#4F0E69",
+		"statusBar.foreground": "#DE2654",
+		"statusBar.background": "#3A0A4D",
+		"statusBar.noFolderBackground": "#3A0A4D",
 		// Tap Groups
 		"editorGroup.border": "#A81677",
 		"editorGroupHeader.tabsBackground": "#1d0001",
@@ -59,7 +59,7 @@
 		"tab.activeBackground": "#520030",
 		"tab.inactiveBackground": "#2B0012",
 		// Editor
-		"editor.background": "#350016",
+		"editor.background": "#330022",
 		"editorBracketMatch.border": "#B39700",
 		"editorCursor.foreground": "#D12450",
 		"editor.lineHighlightBorder": "#59159E",
