@@ -29,7 +29,7 @@
 		"activityBar.border": "#A81677",
 		// Side bar
 		"sideBarTitle.foreground": "#DE2654",
-		"sideBarSectionHeader.foreground": "#D12450",
+		"sideBarSectionHeader.foreground": "#d12475",
 		"sideBar.border": "#A81677",
 		"sideBar.background": "#260617",
 		// Quick input menu
@@ -43,14 +43,15 @@
 		"statusBar.noFolderBackground": "#4F0E69",
 		// Tap Groups
 		"editorGroup.border": "#A81677",
-		"editorGroupHeader.tabsBackground": "#61003C",
-		"tab.border": "#260617",
+		"editorGroupHeader.tabsBackground": "#1d0001",
+		"tab.border": "#1d0001",
 		"tab.activeForeground": "#fede89",
+		"tab.activeBorder": "#fede89",
 		"tab.inactiveForeground": "#b3a5ad",
-		"tab.activeBackground": "#1F0013",
-		"tab.inactiveBackground": "#400027",
+		"tab.activeBackground": "#520030",
+		"tab.inactiveBackground": "#2B0012",
 		// Editor
-		"editor.background": "#1F0013",
+		"editor.background": "#350016",
 		"editorBracketMatch.border": "#B39700",
 		"editorCursor.foreground": "#D12450",
 		"editor.lineHighlightBorder": "#59159E",
