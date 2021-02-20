@@ -11,8 +11,8 @@
 		"sash.hoverBorder": "#A81677",
 		"focusBorder": "#260622",
 		// Text colors
-		"textLink.foreground": "#24B6EB",
-		"textLink.activeForeground": "#3DEBC4",
+		"textLink.foreground": "#82AAFF",
+		"textLink.activeForeground": "#72D6D6",
 		// Buttons
 		"button.background": "#b9075f",
 		"button.secondaryBackground": "#7C1DDE",
@@ -31,7 +31,7 @@
 		"titleBar.activeBackground": "#3A0A4D",
 		// Activity bar
 		"activityBar.foreground": "#FF2B60",
-		"activityBar.background": "#0f001d",
+		"activityBar.background": "#150029",
 		// "activityBar.border": "#A81677",
 		// Side bar
 		"sideBarTitle.foreground": "#DE2654",
