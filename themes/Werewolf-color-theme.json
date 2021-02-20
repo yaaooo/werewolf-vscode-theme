@@ -30,16 +30,16 @@
 		// Title
 		"titleBar.activeBackground": "#3A0A4D",
 		// Activity bar
-		"activityBar.foreground": "#FF2B60",
-		"activityBar.inactiveForeground": "#991A4B",
-		"activityBar.background": "#150029",
+		"activityBar.foreground": "#FFCA60",
+		"activityBar.inactiveForeground": "#FF2B60",
+		"activityBar.background": "#330022",
 		// "activityBar.border": "#A81677",
 		// Side bar
 		"sideBarTitle.foreground": "#DE2654",
 		// "sideBar.border": "#A81677",
 		"sideBar.foreground": "#d2b0c2",
 		"sideBarSectionHeader.foreground": "#d3404f",
-		"sideBar.background": "#260622",
+		"sideBar.background": "#330022",
 		// "sideBar.background": "#1E0526",
 		// Quick input menu
 		// "quickInput.background": "#1d0001",
@@ -63,7 +63,7 @@
 		"tab.activeBackground": "#520030",
 		"tab.inactiveBackground": "#2B0012",
 		// Editor
-		"editor.background": "#330022",
+		"editor.background": "#260622",
 		// "editor.background": "#200030",
 		"editorBracketMatch.border": "#B39700",
 		"editorCursor.foreground": "#D12450",
@@ -99,7 +99,7 @@
 				"meta.brace",
 			],
 			"settings": {
-				"foreground": "#FFF1F6"
+				"foreground": "#FFE6FF"
 			}
 		},
 		{
@@ -108,7 +108,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#FFF1F6"
+				"foreground": "#FFE6FF"
 			}
 		},
 		{
@@ -186,7 +186,7 @@
 				"meta.block variable.other"
 			],
 			"settings": {
-				"foreground": "#FFF1F6"
+				"foreground": "#FFE6FF"
 			}
 		},
 		{
@@ -516,7 +516,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#FFF1F6"
+				"foreground": "#FFE6FF"
 			}
 		},
 		{
@@ -674,7 +674,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#FFF1F6"
+				"foreground": "#FFE6FF"
 			}
 		},
 		{
@@ -702,7 +702,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#FFF1F6"
+				"foreground": "#FFE6FF"
 			}
 		}
 	]
