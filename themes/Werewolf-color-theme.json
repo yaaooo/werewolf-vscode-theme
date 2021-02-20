@@ -32,14 +32,14 @@
 		// Activity bar
 		"activityBar.foreground": "#FFCA60",
 		"activityBar.inactiveForeground": "#FF2B60",
-		"activityBar.background": "#330022",
+		"activityBar.background": "#280032",
 		// "activityBar.border": "#A81677",
 		// Side bar
 		"sideBarTitle.foreground": "#DE2654",
 		// "sideBar.border": "#A81677",
 		"sideBar.foreground": "#d2b0c2",
 		"sideBarSectionHeader.foreground": "#d3404f",
-		"sideBar.background": "#330022",
+		"sideBar.background": "#280032",
 		// "sideBar.background": "#1E0526",
 		// Quick input menu
 		// "quickInput.background": "#1d0001",
@@ -51,19 +51,24 @@
 		"statusBar.foreground": "#d2b0c2",
 		"statusBar.background": "#3A0A4D",
 		"statusBar.noFolderBackground": "#3A0A4D",
-		// Tap Groups
+		// Scroll bar
+		// "scrollbar.shadow": "#A81677",
+		"scrollbarSlider.activeBackground": "#BA1D814D",
+		"scrollbarSlider.background": "#BA1D814D",
+		"scrollbarSlider.hoverBackground": "#BA1D814D",
+		// Tab Groups
 		// "editorGroup.border": "#A81677",
 		"editorGroupHeader.tabsBackground": "#0f001d",
 		"tab.border": "#1d0001",
-		"tab.activeForeground": "#E0C579",
-		"tab.activeBorder": "#E0C579",
-		// 		"tab.activeForeground": "#fede89",
+		"tab.activeForeground": "#FFCA60",
+		"tab.activeBorder": "#FFCA60",
+		// "tab.activeForeground": "#fede89",
 		// "tab.activeBorder": "#fede89",
 		"tab.inactiveForeground": "#b3a5ad",
-		"tab.activeBackground": "#520030",
+		"tab.activeBackground": "#48003E",
 		"tab.inactiveBackground": "#2B0012",
 		// Editor
-		"editor.background": "#260622",
+		"editor.background": "#1D0622",
 		// "editor.background": "#200030",
 		"editorBracketMatch.border": "#B39700",
 		"editorCursor.foreground": "#D12450",
@@ -100,7 +105,7 @@
 				"meta.object-literal.key",
 			],
 			"settings": {
-				"foreground": "#F0E1FF"
+				"foreground": "#E1E1FF"
 			}
 		},
 		{
@@ -109,7 +114,7 @@
 				"constant.other.color"
 			],
 			"settings": {
-				"foreground": "#F0E1FF"
+				"foreground": "#E1E1FF"
 			}
 		},
 		{
@@ -119,7 +124,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#FF6495"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -160,6 +165,18 @@
 			}
 		},
 		{
+			"name": "Quotes, String Templating",
+			"scope": [
+				"punctuation.definition.string.begin",
+				"punctuation.definition.string.end",
+				"punctuation.definition.string.template",
+			],
+			"settings": {
+				"foreground": "#F2AACF",
+				"fontStyle": "bold"
+			}
+		},
+		{
 			"name": "Tag",
 			"scope": [
 				"entity.name.tag",
@@ -187,10 +204,11 @@
 			"name": "Block Level Variables",
 			"scope": [
 				"variable.parameter",
-				"meta.block variable.other"
+				"meta.block variable.other",
+				"support.variable.property"
 			],
 			"settings": {
-				"foreground": "#F0E1FF"
+				"foreground": "#E1E1FF"
 			}
 		},
 		{
@@ -215,7 +233,7 @@
 				"keyword.other"
 			],
 			"settings": {
-				"foreground": "#f99157"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -231,7 +249,7 @@
 			],
 			"settings": {
 				// "foreground": "#C3E88D"
-				"foreground": "#D18198"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -283,7 +301,7 @@
 				"variable.other.class.js"
 			],
 			"settings": {
-				"foreground": "#FF6495"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -292,8 +310,7 @@
 				"variable.language"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#FF6495"
+				"foreground": "#FF3C95"
 			}
 		},
 		{
@@ -360,7 +377,7 @@
 				"markup.inserted"
 			],
 			"settings": {
-				"foreground": "#D18198"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -369,7 +386,7 @@
 				"markup.deleted"
 			],
 			"settings": {
-				"foreground": "#FF6495"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -428,7 +445,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#FF6495"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -519,7 +536,7 @@
 				"punctuation.definition.list_item.markdown"
 			],
 			"settings": {
-				"foreground": "#F0E1FF"
+				"foreground": "#E1E1FF"
 			}
 		},
 		{
@@ -548,7 +565,7 @@
 				"markup.heading.markdown punctuation.definition.heading.markdown"
 			],
 			"settings": {
-				"foreground": "#D18198"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -594,7 +611,7 @@
 			],
 			"settings": {
 				"fontStyle": "underline",
-				"foreground": "#f99157"
+				"foreground": "#F56E95"
 			}
 		},
 		{
@@ -677,7 +694,7 @@
 				"punctuation.section.class.end"
 			],
 			"settings": {
-				"foreground": "#F0E1FF"
+				"foreground": "#E1E1FF"
 			}
 		},
 		{
@@ -705,7 +722,7 @@
 				"markup.table"
 			],
 			"settings": {
-				"foreground": "#F0E1FF"
+				"foreground": "#E1E1FF"
 			}
 		}
 	]
