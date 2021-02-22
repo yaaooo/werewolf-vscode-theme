@@ -11,10 +11,10 @@
 		"textLink.foreground": "#C792EA",
 		"textLink.activeForeground": "#64BDB4",
 		// Buttons
-		"button.background": "#b9075f",
+		"button.background": "#a20965",
 		"button.secondaryBackground": "#7C1DDE",
 		// Dropdown control
-		"dropdown.foreground": "#fede89",
+		"dropdown.foreground": "#72D6CC",
 		// Input
 		"input.background": "#460e3f",
 		// List
@@ -26,7 +26,9 @@
 		"titleBar.activeBackground": "#3A0A4D",
 		// Activity bar
 		"activityBar.foreground": "#FFCA60",
+		// "activityBar.foreground": "#FF2B69",
 		"activityBar.inactiveForeground": "#FF2B69",
+		// "activityBar.inactiveForeground": "#72D6CC",
 		"activityBar.background": "#220033",
 		"activityBarBadge.foreground": "#64BDB4",
 		"activityBarBadge.background": "#60136c",
@@ -55,8 +57,10 @@
 		// "editorGroup.border": "#A81677",
 		"editorGroupHeader.tabsBackground": "#0f001d",
 		"tab.border": "#1d0001",
-		"tab.activeForeground": "#FCB47A",
-		"tab.activeBorder": "#FCB47A",
+		"tab.activeForeground": "#FFCA60",
+		"tab.activeBorder": "#FFCA60",
+		// "tab.activeForeground": "#64BDB4",
+		// "tab.activeBorder": "#64BDB4",
 		"tab.inactiveForeground": "#d2b0c2",
 		"tab.activeBackground": "#480038",
 		"tab.inactiveBackground": "#220232",

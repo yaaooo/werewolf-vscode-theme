@@ -1,7 +1,7 @@
 {
     "name": "werewolf",
     "displayName": "Werewolf",
-    "description": "A VSCode Theme based on Telltale's The Wolf Among Us.",
+    "description": "A dark, neo-noir VS Code theme inspired by Telltale's 'The Wolf Among Us'.",
     "version": "0.0.1",
     "engines": {
         "vscode": "^1.53.0"
@@ -14,7 +14,7 @@
             {
                 "label": "Werewolf",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Werewolf-color-theme.json"
+                "path": "./themes/werewolf-color-theme.json"
             }
         ]
     }
