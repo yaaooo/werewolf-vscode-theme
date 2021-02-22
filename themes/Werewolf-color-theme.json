@@ -8,7 +8,7 @@
 		"focusBorder": "#260622",
 		"selection.background": "#B38E44",
 		// Text colors
-		"textLink.foreground": "#82AAFF",
+		"textLink.foreground": "#C792EA",
 		"textLink.activeForeground": "#64BDB4",
 		// Buttons
 		"button.background": "#b9075f",
@@ -22,8 +22,6 @@
 		"list.inactiveSelectionBackground": "#800542",
 		"list.hoverBackground": "#4F0F52",
 		"list.focusBackground": "#800542",
-		// List - Search matching
-		"list.highlightForeground": "#E0C579",
 		// Title
 		"titleBar.activeBackground": "#3A0A4D",
 		// Activity bar
@@ -38,7 +36,9 @@
 		"sideBarSectionHeader.foreground": "#d34078",
 		"sideBar.background": "#220033",
 		// Quick input menu
-		"quickInput.background": "#38002A",
+		"quickInput.background": "#2E0022",
+		// Search matching
+		"list.highlightForeground": "#E0C579",
 		// Badge
 		"badge.foreground": "#64BDB4",
 		"badge.background": "#60136c",
@@ -76,6 +76,13 @@
 		"editorWidget.border": "#BA1D814D",
 		// Minimap 
 		"minimap.selectionHighlight": "#540D48",
+		// Editor gutter
+		"editorGutter.addedBackground": "#72D6CC",
+		"editorGutter.modifiedBackground": "#FCB47A",
+		"editorGutter.deletedBackground": "#E14B95",
+		// Diff editor
+		"diffEditor.insertedTextBackground": "#72d6cc30",
+		"diffEditor.removedTextBackground": "#e14b9630",
 		// Panel
 		"panel.border": "#750F53",
 		// Terminal tweaks
@@ -83,9 +90,9 @@
 		"terminal.ansiBrightYellow": "#FFEC82",
 		"terminal.ansiBlue": "#6B71E8",
 		"terminal.ansiBrightBlue": "#82AAFF",
-		"terminal.ansiCyan": "#5aaebf",
-		"terminal.ansiBrightCyan": "#72D8ED",
-		"terminal.ansiGreen": "#72EDBE",
+		"terminal.ansiCyan": "#4c92a9",
+		"terminal.ansiBrightCyan": "#60b3ce",
+		"terminal.ansiGreen": "#58bb95",
 		"terminal.ansiBrightGreen": "#72EDBE",
 		"terminal.ansiRed": "#d03279",
 		"terminal.ansiBrightRed": "#FF3C95",
