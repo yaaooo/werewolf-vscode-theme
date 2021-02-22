@@ -85,7 +85,7 @@
 		"editorGutter.modifiedBackground": "#FCB47A",
 		"editorGutter.deletedBackground": "#E14B95",
 		// Diff editor
-		"diffEditor.insertedTextBackground": "#72d6cc30",
+		"diffEditor.insertedTextBackground": "#72d6cc3f",
 		"diffEditor.removedTextBackground": "#e14b9630",
 		// Panel
 		"panel.border": "#750F53",
@@ -155,7 +155,7 @@
 				"keyword.control",
 				"storage.type.class",
 				"storage.type.type",
-				"storage.type.function.arrow",
+				"storage.type.function",
 				"meta.var",
 				"storage.modifier"
 			],
@@ -313,7 +313,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#BCCEDE"
+				"foreground": "#FCB47A"
 			}
 		},
 		{
@@ -383,7 +383,7 @@
 				"entity.other.attribute-name.class"
 			],
 			"settings": {
-				"foreground": "#FCB47A"
+				"foreground": "#C792EA"
 			}
 		},
 		{
