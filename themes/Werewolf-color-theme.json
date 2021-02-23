@@ -25,9 +25,9 @@
 		// Title
 		"titleBar.activeBackground": "#3A0A4D",
 		// Activity bar
-		"activityBar.foreground": "#FFCA60",
-		// "activityBar.foreground": "#FF2B69",
-		"activityBar.inactiveForeground": "#FF2B69",
+		// "activityBar.foreground": "#FFCA60",
+		"activityBar.foreground": "#FF2B69",
+		"activityBar.inactiveForeground": "#991A40",
 		// "activityBar.inactiveForeground": "#72D6CC",
 		"activityBar.background": "#220033",
 		"activityBarBadge.foreground": "#64BDB4",
@@ -91,13 +91,13 @@
 		// Terminal tweaks
 		"terminal.ansiYellow": "#FFCA60",
 		"terminal.ansiBrightYellow": "#FFEC82",
-		"terminal.ansiBlue": "#6B71E8",
-		"terminal.ansiBrightBlue": "#82AAFF",
+		"terminal.ansiBlue": "#5B87B3",
+		"terminal.ansiBrightBlue": "#75ADE6",
 		"terminal.ansiCyan": "#4c92a9",
 		"terminal.ansiBrightCyan": "#60b3ce",
 		"terminal.ansiGreen": "#58bb95",
 		"terminal.ansiBrightGreen": "#72EDBE",
-		"terminal.ansiRed": "#d03279",
+		"terminal.ansiRed": "#CC3177",
 		"terminal.ansiBrightRed": "#FF3C95",
 		"terminalCursor.foreground": "#FF3C95",
 	},
@@ -221,7 +221,7 @@
 				"keyword.other.special-method"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#75ADE6"
 			}
 		},
 		{
@@ -329,10 +329,20 @@
 		{
 			"name": "Language methods",
 			"scope": [
-				"variable.language"
+				"variable.language",
 			],
 			"settings": {
 				"foreground": "#E14B95",
+				"fontStyle": "bold"
+			}
+		},
+		{
+			"name": "Object Keys",
+			"scope": [
+				"variable.other.object"
+			],
+			"settings": {
+				"foreground": "#9878FF",
 				"fontStyle": "bold"
 			}
 		},
@@ -343,7 +353,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#75ADE6"
 			}
 		},
 		{
@@ -353,7 +363,7 @@
 				"variable.function.constructor"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#75ADE6"
 			}
 		},
 		{
@@ -391,7 +401,7 @@
 				"source.sass keyword.control"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#75ADE6"
 			}
 		},
 		{
@@ -458,7 +468,7 @@
 			],
 			"settings": {
 				"fontStyle": "italic",
-				"foreground": "#82AAFF"
+				"foreground": "#75ADE6"
 			}
 		},
 		{
@@ -661,7 +671,7 @@
 				"string.other.link.title.markdown"
 			],
 			"settings": {
-				"foreground": "#82AAFF"
+				"foreground": "#75ADE6"
 			}
 		},
 		{
