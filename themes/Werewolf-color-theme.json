@@ -18,7 +18,7 @@
 		// Input
 		"input.background": "#460e3f",
 		// List
-		"list.activeSelectionBackground": "#b9075f",
+		"list.activeSelectionBackground": "#94064D",
 		"list.inactiveSelectionBackground": "#800542",
 		"list.hoverBackground": "#4F0F52",
 		"list.focusBackground": "#800542",
@@ -49,7 +49,6 @@
 		"statusBar.background": "#3A0A4D",
 		"statusBar.noFolderBackground": "#3A0A4D",
 		// Scroll bar
-		// "scrollbar.shadow": "#A81677",
 		"scrollbarSlider.activeBackground": "#ba1d814d",
 		"scrollbarSlider.background": "#BA1D814D",
 		"scrollbarSlider.hoverBackground": "#BA1D814D",
