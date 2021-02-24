@@ -109,8 +109,7 @@
 				"punctuation.definition.comment"
 			],
 			"settings": {
-				"fontStyle": "italic",
-				"foreground": "#778BA6"
+				"foreground": "#6B6BBF"
 			}
 		},
 		{
@@ -258,7 +257,7 @@
 				"meta.delimiter",
 			],
 			"settings": {
-				"foreground": "#E14B95"
+				"foreground": "#C792AE"
 			}
 		},
 		{
@@ -333,17 +332,15 @@
 			],
 			"settings": {
 				"foreground": "#E14B95",
-				"fontStyle": "bold"
 			}
 		},
 		{
-			"name": "Object Keys",
+			"name": "Object Access",
 			"scope": [
 				"variable.other.object"
 			],
 			"settings": {
-				"foreground": "#9878FF",
-				"fontStyle": "bold"
+				"foreground": "#90D2B4",
 			}
 		},
 		{
