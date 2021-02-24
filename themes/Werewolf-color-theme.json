@@ -482,6 +482,15 @@
 			}
 		},
 		{
+			"name": "JSON Key - Quotes",
+			"scope": [
+				"punctuation.support.type.property-name"
+			],
+			"settings": {
+				"foreground": "#B982EB"
+			}
+		},
+		{
 			"name": "JSON Key - Level 0",
 			"scope": [
 				"source.json meta.structure.dictionary.json support.type.property-name.json"
