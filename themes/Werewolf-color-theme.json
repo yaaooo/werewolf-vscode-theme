@@ -19,7 +19,7 @@
 		"input.background": "#460e3f",
 		// List
 		"list.activeSelectionBackground": "#94064D",
-		"list.inactiveSelectionBackground": "#800542",
+		"list.inactiveSelectionBackground": "#800557",
 		"list.hoverBackground": "#4F0F52",
 		"list.focusBackground": "#800542",
 		// Title
@@ -57,11 +57,9 @@
 		"tab.border": "#1d0001",
 		"tab.activeForeground": "#FFCA60",
 		"tab.activeBorder": "#FFCA60",
-		// "tab.activeForeground": "#64BDB4",
-		// "tab.activeBorder": "#64BDB4",
 		"tab.inactiveForeground": "#d2b0c2",
-		"tab.activeBackground": "#480038",
-		"tab.inactiveBackground": "#220232",
+		"tab.activeBackground": "#470036",
+		"tab.inactiveBackground": "#2B0233",
 		// Editor
 		"editor.background": "#1D0622",
 		"editor.lineHighlightBackground": "#300B54",
