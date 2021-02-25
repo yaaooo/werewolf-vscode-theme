@@ -9,12 +9,12 @@
 		"selection.background": "#B38E44",
 		// Text colors
 		"textLink.foreground": "#C792EA",
-		"textLink.activeForeground": "#64BDB4",
+		"textLink.activeForeground": "#7ACCC9",
 		// Buttons
 		"button.background": "#a20965",
 		"button.secondaryBackground": "#7C1DDE",
 		// Dropdown control
-		"dropdown.foreground": "#72D6CC",
+		"dropdown.foreground": "#7ACCC9",
 		// Input
 		"input.background": "#460e3f",
 		// List
@@ -27,9 +27,9 @@
 		// Activity bar
 		"activityBar.foreground": "#FF3377",
 		"activityBar.inactiveForeground": "#991A40",
-		// "activityBar.inactiveForeground": "#72D6CC",
+		// "activityBar.inactiveForeground": "#7ACCC9",
 		"activityBar.background": "#220033",
-		"activityBarBadge.foreground": "#64BDB4",
+		"activityBarBadge.foreground": "#7ACCC9",
 		"activityBarBadge.background": "#60136c",
 		// Side bar
 		"sideBarTitle.foreground": "#de267c",
@@ -41,7 +41,7 @@
 		// Search matching
 		"list.highlightForeground": "#E0C579",
 		// Badge
-		"badge.foreground": "#64BDB4",
+		"badge.foreground": "#7ACCC9",
 		"badge.background": "#60136c",
 		// Status bar
 		"statusBar.foreground": "#d25b96",
@@ -70,33 +70,33 @@
 		"editor.findMatchHighlightBackground": "#8065309c",
 		"editorBracketMatch.border": "#FCB47A",
 		"editorCursor.foreground": "#D12450",
-		"editorLink.activeForeground": "#64BDB4",
+		"editorLink.activeForeground": "#7ACCC9",
 		// Editor widgets
 		"editorWidget.background": "#38002A",
 		"editorWidget.border": "#BA1D814D",
 		// Minimap 
 		"minimap.selectionHighlight": "#540D48",
 		// Editor gutter
-		"editorGutter.addedBackground": "#72D6CC",
+		"editorGutter.addedBackground": "#7ACCC9",
 		"editorGutter.modifiedBackground": "#FCB47A",
 		"editorGutter.deletedBackground": "#E14B95",
 		// Diff editor
-		"diffEditor.insertedTextBackground": "#72d6cc3f",
+		"diffEditor.insertedTextBackground": "#7ACCC93f",
 		"diffEditor.removedTextBackground": "#e14b9630",
 		// Panel
 		"panel.border": "#750F53",
 		// Terminal tweaks
 		"terminal.ansiYellow": "#FFCA60",
 		"terminal.ansiBrightYellow": "#FFEC82",
-		"terminal.ansiBlue": "#5B87B3",
+		"terminal.ansiBlue": "#4D86BF",
 		"terminal.ansiBrightBlue": "#5CA1E6",
-		"terminal.ansiCyan": "#4c92a9",
-		"terminal.ansiBrightCyan": "#60b3ce",
-		"terminal.ansiGreen": "#58bb95",
-		"terminal.ansiBrightGreen": "#72EDBE",
-		"terminal.ansiRed": "#CC3177",
-		"terminal.ansiBrightRed": "#FF3C95",
-		"terminalCursor.foreground": "#FF3C95",
+		"terminal.ansiCyan": "#5C9499",
+		"terminal.ansiBrightCyan": "#7ACCC9",
+		"terminal.ansiGreen": "#43BF90",
+		"terminal.ansiBrightGreen": "#50E6AC",
+		"terminal.ansiRed": "#F268B0",
+		"terminal.ansiBrightRed": "#FF59AF",
+		"terminalCursor.foreground": "#FF59AF",
 	},
 	"tokenColors": [
 		{
@@ -118,7 +118,6 @@
 				"meta.object-literal.key",
 				"meta",
 				"source.shell",
-				"text.html"
 			],
 			"settings": {
 				"foreground": "#F268B0"
@@ -198,17 +197,6 @@
 			}
 		},
 		{
-			"name": "Tag",
-			"scope": [
-				"entity.name.tag",
-				"meta.tag.sgml",
-				"markup.deleted.git_gutter"
-			],
-			"settings": {
-				"foreground": "#E68AA8"
-			}
-		},
-		{
 			"name": "Function, Special Method",
 			"scope": [
 				"meta.method.declaration",
@@ -256,7 +244,16 @@
 				"meta.delimiter",
 			],
 			"settings": {
-				"foreground": "#36B383"
+				"foreground": "#43BF90"
+			}
+		},
+		{
+			"name": "Escape Characters",
+			"scope": [
+				"constant.character.escape"
+			],
+			"settings": {
+				"foreground": "#999846"
 			}
 		},
 		{
@@ -325,12 +322,22 @@
 			}
 		},
 		{
+			"name": "HTML Text",
+			"scope": [
+				"text.html.vue-html",
+				"meta.jsx.children"
+			],
+			"settings": {
+				"foreground": "#F2DAE4",
+			}
+		},
+		{
 			"name": "Language methods",
 			"scope": [
 				"variable.language",
 			],
 			"settings": {
-				"foreground": "#D9D2A3",
+				"foreground": "#D9D5AD",
 			}
 		},
 		{
@@ -339,7 +346,18 @@
 				"variable.other.object"
 			],
 			"settings": {
-				"foreground": "#A3D9BF",
+				"foreground": "#F2AACE",
+			}
+		},
+		{
+			"name": "Tag",
+			"scope": [
+				"entity.name.tag",
+				"meta.tag.sgml",
+				"markup.deleted.git_gutter"
+			],
+			"settings": {
+				"foreground": "#F2557C"
 			}
 		},
 		{
@@ -433,16 +451,7 @@
 				"string.regexp"
 			],
 			"settings": {
-				"foreground": "#64BDB4"
-			}
-		},
-		{
-			"name": "Escape Characters",
-			"scope": [
-				"constant.character.escape"
-			],
-			"settings": {
-				"foreground": "#64BDB4"
+				"foreground": "#7ACCC9"
 			}
 		},
 		{
