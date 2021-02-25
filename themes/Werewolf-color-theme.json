@@ -154,7 +154,7 @@
 				"storage.modifier"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#9878FF"
 			}
 		},
 		{
@@ -182,7 +182,7 @@
 				"meta.brace"
 			],
 			"settings": {
-				"foreground": "#9878FF"
+				"foreground": "#C792EA"
 			}
 		},
 		{
@@ -297,20 +297,6 @@
 			}
 		},
 		{
-			"name": "CSS Class and Support",
-			"scope": [
-				"source.css support.type.property-name",
-				"source.sass support.type.property-name",
-				"source.scss support.type.property-name",
-				"source.less support.type.property-name",
-				"source.stylus support.type.property-name",
-				"source.postcss support.type.property-name"
-			],
-			"settings": {
-				"foreground": "#FCB47A"
-			}
-		},
-		{
 			"name": "Sub-methods",
 			"scope": [
 				"entity.name.module.js",
@@ -386,7 +372,7 @@
 				"entity.other.attribute-name"
 			],
 			"settings": {
-				"foreground": "#C792EA"
+				"foreground": "#9878FF"
 			}
 		},
 		{
@@ -401,21 +387,45 @@
 			}
 		},
 		{
-			"name": "CSS Classes",
-			"scope": [
-				"entity.other.attribute-name.class"
-			],
-			"settings": {
-				"foreground": "#C792EA"
-			}
-		},
-		{
 			"name": "CSS ID's",
 			"scope": [
-				"source.sass keyword.control"
+				"source.css keyword.control",
+				"source.sass keyword.control",
+				"source.scss keyword.control",
+				"source.less keyword.control",
+				"source.stylus keyword.control",
+				"source.postcss keyword.control"
 			],
 			"settings": {
 				"foreground": "#5CA1E6"
+			}
+		},
+		{
+			"name": "CSS Classes",
+			"scope": [
+				"source.css entity.other.attribute-name.class",
+				"source.sass entity.other.attribute-name.class",
+				"source.scss entity.other.attribute-name.class",
+				"source.less entity.other.attribute-name.class",
+				"source.stylus entity.other.attribute-name.class",
+				"source.postcss entity.other.attribute-name.class"
+			],
+			"settings": {
+				"foreground": "#FCB47A"
+			}
+		},
+		{
+			"name": "CSS Properties",
+			"scope": [
+				"source.css support.type.property-name",
+				"source.sass support.type.property-name",
+				"source.scss support.type.property-name",
+				"source.less support.type.property-name",
+				"source.stylus support.type.property-name",
+				"source.postcss support.type.property-name"
+			],
+			"settings": {
+				"foreground": "#F268B0"
 			}
 		},
 		{
