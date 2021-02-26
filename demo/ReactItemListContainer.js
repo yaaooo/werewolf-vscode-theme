@@ -7,8 +7,7 @@ import ItemList from "./ReactItemList";
 import {
   loadItems as loadItemsActionCreator,
   selectLoadedItems,
-} from "../../data/network";
-
+} from "../../data/loadItems";
 
 import styles from "./styles.css";
 

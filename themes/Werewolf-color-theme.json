@@ -7,6 +7,7 @@
 		"icon.foreground": "#e4d9df",
 		"focusBorder": "#260622",
 		"selection.background": "#B38E44",
+		"sash.hoverBorder": "#A81677",
 		// Text colors
 		"textLink.foreground": "#C792EA",
 		"textLink.activeForeground": "#7ACCC9",
