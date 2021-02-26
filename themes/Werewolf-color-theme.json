@@ -122,7 +122,8 @@
 				"meta.brace",
 				"meta.object-literal.key",
 				"meta",
-				"source.shell",
+				"source",
+				"meta.function-call.arguments"
 			],
 			"settings": {
 				"foreground": "#F268B0"
