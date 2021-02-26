@@ -7,9 +7,7 @@
 </template>
 
 <script>
-import Vue from "vue";
-
-Vue.extend({
+export default {
   name: "item-list",
   props: {
     items: {
@@ -18,11 +16,13 @@ Vue.extend({
     }
   },
   data() {
+    // This is a comment.
     return {
       placeholders: ["foo", "bar", "baz"]
     };
   },
   mounted() {
+    // This is another comment.
     console.log("ItemList was mounted.");
   }
 });

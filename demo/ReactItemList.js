@@ -6,6 +6,8 @@ function Item({ text }) {
 }
 
 export default function ItemList({ items }) {
+  // This is a comment
+  // This is another comment
   return (
     <div className={styles.list}>
       {items.map((item) => (

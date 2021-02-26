@@ -30,8 +30,10 @@ type Props = {|
   ...ConnectedDispatchProps,
 |};
 
-export class ItemListWrapper extends PureComponent<Props> {
+export class ItemListContainer extends PureComponent<Props> {
   componentDidMount() {
+    // This is a comment.
+    // This is another comment.
     window.addEventListener("resize", this.onResize);
   }
 
@@ -48,8 +50,8 @@ export class ItemListWrapper extends PureComponent<Props> {
 
       return (
         <div className={className}>
-            <h2>{displayText}</h2>
-            <ItemList items={loadedItems} />
+          <h2>{displayText}</h2>
+          <ItemList items={loadedItems} />
         </div>
       );
     }
