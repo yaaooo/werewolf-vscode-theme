@@ -2,19 +2,22 @@
 
 Werewolf is a dark, neo-noir Visual Studio Code (VSCode) theme inspired by Telltale's _The Wolf Among Us_.
 
-![Banner](banner.png)
+![Banner](images/banner.png)
+
+## Examples
+
+### React / JavaScript
+![React Example](images/demo-react-js.png)
+
+### Python
+![Vue Example](images/demo-python.png)
 
 ## Usage
 
-Once you have VSCode running,
+With VSCode up and running,
 - Open up the __Extensions__ view in the activity bar
 - Search for an extension by the name of "Werewolf"
 - Click on the extension, __Install__ it, and then select __Set Color Theme__
-
-To load variations of the theme,
-- Open up the __Command Palette__ (the default keyboard shortcut is `Cmd+Shift+P`)
-- Search for the option labeled __Preferences: Color Theme__ and hit `Enter`
-- Select __Werewolf__ or __Werewolf (dimmed bg)__ and hit `Enter` again
 
 ## Feedback
 
