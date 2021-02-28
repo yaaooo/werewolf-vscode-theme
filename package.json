@@ -20,9 +20,9 @@
                 "path": "./themes/werewolf.json"
             },
             {
-                "label": "Werewolf (dimmer bg)",
+                "label": "Werewolf (darker background)",
                 "uiTheme": "vs-dark",
-                "path": "./themes/werewolf-dimmer-bg.json"
+                "path": "./themes/werewolf-darker-background.json"
             }
         ]
     },
