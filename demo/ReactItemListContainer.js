@@ -30,31 +30,24 @@ type Props = {|
 |};
 
 export class ItemListContainer extends PureComponent<Props> {
-  componentDidMount() {
-    // This is a comment.
-    // This is another comment.
-    window.addEventListener("resize", this.onResize);
-  }
-
-  onResize = () => {
-    console.log("Window was resized.");
-    this.props.loadItems();
+  componentDidUpdate(prevProps: Props) {
+    if (!prevProps.loadedItems && this.props.loadedItems) {
+      // TODO
+    }
   }
 
   render() {
     const { loadedItems, className = "" } = this.props;
-      const displayText = loadedItems && loadedItems.length > 0
-        ? "Items loaded"
-        : "No items to load";
+    const displayText = loadedItems && loadedItems.length > 0
+      ? "Items loaded"
+      : "No items to load";
 
-      return (
-        <div className={className}>
-          <h2>{displayText}</h2>
-          <ItemList items={loadedItems} />
-        </div>
-      );
-    }
-    return null;
+    return (
+      <div className={className}>
+        <h2>{displayText}</h2>
+        <ItemList items={loadedItems} />
+      </div>
+    );
   }
 }
 

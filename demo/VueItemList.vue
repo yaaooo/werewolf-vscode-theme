@@ -12,20 +12,20 @@ export default {
   props: {
     items: {
       type: Array,
-      required: true
-    }
+      required: true,
+    },
   },
   data() {
     // This is a comment.
     return {
-      placeholders: ["foo", "bar", "baz"]
+      placeholders: ["foo", "bar", "baz"],
     };
   },
   mounted() {
     // This is another comment.
     console.log("ItemList was mounted.");
-  }
-});
+  },
+};
 </script>
 
 <style>

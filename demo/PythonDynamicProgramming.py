@@ -1,5 +1,3 @@
-# Buy and sell stock k times
-
 from math import inf
 
 def max_profit(k, prices):
@@ -8,26 +6,21 @@ def max_profit(k, prices):
 
     n = len(prices)
 
-    # (Optional) Additional optimisation if we
-    # are able to execute unlimited transactions
+    """
+    (Optional) Additional optimisation if we
+    are able to execute unlimited transactions
+    """
     if k >= len(prices) * 2:
         max_profits = 0
         for i in range(1, n):
             max_profits += max(prices[i] - prices[i-1], 0)
         return max_profits
 
-    # `profits[i]` tracks the best profits attainable when
-    # we *add* the option of selling at `i`
     profits = [0 for _ in range(n)]
 
     for txn in range(k):
 
-        # `new_profits` tracks the best profits attainable when
-        # we *increment* the number of allowable transactions
         new_profits = profits[:]
-
-        # best_preceding_value =
-        # best profits before purchase - best_buy_price
         best_preceding_value = -prices[0]
 
         for sell_idx in range(1, n):
