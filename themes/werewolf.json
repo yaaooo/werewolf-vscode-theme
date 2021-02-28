@@ -25,12 +25,10 @@
 		"list.focusBackground": "#800542",
 		// Title
 		"titleBar.activeBackground": "#3A0A4D",
-		// "titleBar.activeBackground": "#340945",
 		// Activity bar
 		"activityBar.foreground": "#FF3377",
 		"activityBar.inactiveForeground": "#991A40",
 		"activityBar.background": "#220033",
-		// "activityBar.background": "#1B0029",
 		"activityBarBadge.foreground": "#7ACCC9",
 		"activityBarBadge.background": "#60136c",
 		// Side bar
@@ -38,7 +36,6 @@
 		"sideBar.foreground": "#d2b0c2",
 		"sideBarSectionHeader.foreground": "#d34078",
 		"sideBar.background": "#220033",
-		// "sideBar.background": "#1B0029",
 		// Quick input menu
 		"quickInput.background": "#38002A",
 		// Search matching
@@ -49,14 +46,12 @@
 		// Status bar
 		"statusBar.foreground": "#D12A7D",
 		"statusBar.background": "#3A0A4D",
-		// "statusBar.background": "#340945",
 		"statusBar.noFolderBackground": "#3A0A4D",
 		// Scroll bar
 		"scrollbarSlider.activeBackground": "#ba1d814d",
 		"scrollbarSlider.background": "#BA1D814D",
 		"scrollbarSlider.hoverBackground": "#BA1D814D",
 		// Tab Groups
-		// "editorGroup.border": "#A81677",
 		"editorGroupHeader.tabsBackground": "#0f001d",
 		"tab.border": "#1d0001",
 		"tab.activeForeground": "#FFCA60",
@@ -66,7 +61,6 @@
 		"tab.inactiveBackground": "#2B0233",
 		// Editor
 		"editor.background": "#1D0622",
-		// "editor.background": "#18051C",
 		"editor.lineHighlightBackground": "#300B54",
 		"editor.selectionBackground": "#540B44",
 		"editor.symbolHighlightBackground": "#ff0000",

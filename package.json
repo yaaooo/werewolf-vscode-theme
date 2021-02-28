@@ -14,7 +14,12 @@
             {
                 "label": "Werewolf",
                 "uiTheme": "vs-dark",
-                "path": "./themes/Werewolf-color-theme.json"
+                "path": "./themes/werewolf.json"
+            },
+            {
+                "label": "Werewolf (dimmer bg)",
+                "uiTheme": "vs-dark",
+                "path": "./themes/werewolf-dimmer-bg.json"
             }
         ]
     },
