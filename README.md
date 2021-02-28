@@ -2,15 +2,15 @@
 
 Werewolf is a dark, neo-noir Visual Studio Code (VSCode) theme inspired by Telltale's _The Wolf Among Us_.
 
-![Banner](images/banner.png)
+![Banner](assets/banner.png)
 
 ## Examples
 
 ### React / JavaScript
-![React Example](images/demo-react-js.png)
+![React Example](assets/demo-react-js.png)
 
 ### Python
-![Vue Example](images/demo-python.png)
+![Vue Example](assets/demo-python.png)
 
 ## Usage
 

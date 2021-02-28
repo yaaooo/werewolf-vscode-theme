@@ -17,5 +17,17 @@
                 "path": "./themes/Werewolf-color-theme.json"
             }
         ]
+    },
+    "icon": "images/icon.png",
+    "keywords": [
+        "theme",
+        "dark theme",
+        "night theme",
+        "werewolf",
+        "wolf"
+    ],
+    "repository": {
+        "type": "git",
+        "url": "https://github.com/yaaooo/werewolf-vscode-theme"
     }
 }
