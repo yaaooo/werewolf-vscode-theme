@@ -1,16 +1,15 @@
-![Werewolf]()
+# Werewolf
 
-Werewolf is a dark, neo-noir VSCode theme inspired by Telltale's _The Wolf Among Us_.
+Werewolf is a dark, neo-noir Visual Studio Code (VSCode) theme inspired by Telltale's _The Wolf Among Us_.
 
-## Installation
-
-With VSCode up and running,
-- Open the __Extensions__ view by tapping on the Extensions icon in the activity bar
-  - You can also use the default keyboard shortcut `Cmd+Shift+X`
-- Search for an extension by the name of "Werewolf"
-- Click on the extension, __Install__ it, and then select __Set Color Theme__
+![Banner](banner.png)
 
 ## Usage
+
+Once you have VSCode running,
+- Open up the __Extensions__ view in the activity bar
+- Search for an extension by the name of "Werewolf"
+- Click on the extension, __Install__ it, and then select __Set Color Theme__
 
 To load variations of the theme,
 - Open up the __Command Palette__ (the default keyboard shortcut is `Cmd+Shift+P`)
@@ -25,8 +24,8 @@ Wish to fix something yourself or add more variations? Pull requests are very we
 
 ## Credits
 
-Illustrations wonderfully crafted by Natalie Tan.
+Illustrations wonderfully crafted by [Natalie Christian Tan](https://nataliechristiantan.com/work).
 
 [Sarah Drasner's article on CSS Tricks](https://css-tricks.com/creating-a-vs-code-theme/) was a valuable resource for getting me started. It also provided me with perspective on design decisions on topics such as managing contrast (though in this theme's case I took plenty of liberties).
 
-Last but not least, kudos to the Telltale team for putting together this memorable series (it's been almost eight years!) — and of course, the creators of _Fables_ for inspiring them in the first place.
+Last but not least, kudos to the Telltale team for putting together [this memorable series](https://www.youtube.com/watch?v=_htfCzTjCpA) — and of course, the creators of _Fables_ for inspiring them in the first place.
