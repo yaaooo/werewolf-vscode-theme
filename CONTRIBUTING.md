@@ -6,4 +6,4 @@ First, see if an [issue](https://github.com/yaaooo/werewolf-vscode-theme/issues)
 
 Fork and clone this repository into your local development environment. For color-specific tweaks, you'll want to apply the necessary changes in the [themes](https://github.com/yaaooo/werewolf-vscode-theme/tree/master/themes) folder.
 
-Manually test your changes by launching the extension (`Fn + F5` by default). Once you're done testing, create a pull request. Follow the pull request template.
+Manually test your changes by launching the extension (`Fn + F5` by default). Once you're done testing, create a pull request and link it to the issue you created (or discovered) earlier. Abide by the pull request template.
