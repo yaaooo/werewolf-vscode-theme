@@ -3,6 +3,9 @@
     "displayName": "Werewolf",
     "description": "A dark, neo-noir VSCode theme inspired by Telltale's The Wolf Among Us.",
     "version": "0.0.1",
+    "license": "MIT",
+    "author": "Yao-Hui Chua",
+    "publisher": "yaaooo",
     "engines": {
         "vscode": "^1.53.0"
     },
