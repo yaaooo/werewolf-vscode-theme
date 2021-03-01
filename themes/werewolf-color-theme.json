@@ -74,6 +74,9 @@
 		// Editor widgets
 		"editorWidget.background": "#38002A",
 		"editorWidget.border": "#BA1D814D",
+		// Editor line numbers
+		"editorLineNumber.foreground": "#8C3F73",
+		"editorLineNumber.activeForeground": "#9F8AE6",
 		// Minimap 
 		"minimap.selectionHighlight": "#540D48",
 		// Editor gutter
