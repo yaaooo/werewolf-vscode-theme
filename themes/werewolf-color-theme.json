@@ -276,9 +276,10 @@
 			}
 		},
 		{
-			"name": "Primitive types",
+			"name": "Primitives and built-ins",
 			"scope": [
 				"support.type.primitive",
+				"support.type.builtin",
 			],
 			"settings": {
 				"foreground": "#E17A64"
