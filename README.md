@@ -26,7 +26,7 @@ To load variations of the theme,
 
 ## Feedback
 
-Having some trouble? [Create an issue](https://github.com/yaaooo/werewolf-vscode-theme/issues) and I'll look into your problem.
+Having some trouble? [Create an issue](https://github.com/yaaooo/werewolf-vscode-theme/issues/new/choose) and I'll look into your problem.
 
 Wish to fix something yourself or add a spin on the theme? Check out the [contributing guidelines](CONTRIBUTING.md).
 

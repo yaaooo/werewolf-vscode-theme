@@ -7,7 +7,11 @@ assignees: ''
 
 ---
 
-<!-- Before submitting a bug report, ensure you're running the latest version of the extension. -->
+<!-- 
+Before submitting a bug report, 
+- Ensure you're running the latest version of the extension
+- See if a similar issue has already been reported 
+-->
 
 ## Description
 

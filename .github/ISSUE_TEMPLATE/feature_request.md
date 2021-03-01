@@ -7,7 +7,11 @@ assignees: ''
 
 ---
 
-<!-- Before submitting a request, ensure you're running the latest version of the extension. -->
+<!-- 
+Before submitting a feature request,
+- Ensure you're running the latest version of the extension
+- See if a similar suggestion has already been made 
+-->
 
 ## Description
 
