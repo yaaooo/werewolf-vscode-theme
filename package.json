@@ -18,11 +18,6 @@
         "label": "Werewolf",
         "uiTheme": "vs-dark",
         "path": "./themes/werewolf-color-theme.json"
-      },
-      {
-        "label": "Werewolf (darker background)",
-        "uiTheme": "vs-dark",
-        "path": "./themes/werewolf-darker-background-color-theme.json"
       }
     ]
   },
