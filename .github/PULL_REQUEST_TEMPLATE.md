@@ -1,15 +1,15 @@
-<!--
-Give a short description of this pull request 
+## Description
 
-(e.g. Adds a variation of the theme with less contrast.)
--->
+__Describe your pull request and the improvements it makes (e.g. "Adds a variation with lower contrast").__
+
+<!-- Your description here -->
 
 ## Related Issue 
 
-This pull request addresses #<!-- Issue Link -->.
+__This pull request addresses #<!-- Issue Link -->.__
 
 ## Screenshots
 
 | Before | After |
 | ------ | ----- |
-| | |
+| <!-- Before image URL --> | <!-- After image URL --> |
