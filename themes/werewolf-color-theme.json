@@ -46,7 +46,8 @@
 		// Status bar
 		"statusBar.foreground": "#D12A7D",
 		"statusBar.background": "#3A0A4D",
-		"statusBar.noFolderBackground": "#3A0A4D",
+		"statusBar.noFolderBackground": "#161740",
+		"statusBar.debuggingBackground": "#161740",
 		// Scroll bar
 		"scrollbarSlider.activeBackground": "#ba1d814d",
 		"scrollbarSlider.background": "#BA1D814D",
