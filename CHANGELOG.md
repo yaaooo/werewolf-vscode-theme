@@ -1,8 +1,9 @@
 # Change Log
 
-All notable changes to the "werewolf" extension will be documented in this file.
+## 0.1.2
 
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
+- Remove darker background option since difference is marginal
+- Use same color for primitive and builtin types
 
 ## 0.1.1
 

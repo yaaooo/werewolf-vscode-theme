@@ -22,7 +22,7 @@ With VSCode up and running,
 To load variations of the theme,
 - Open up the __Command Palette__ (`Cmd+Shift+P` by default)
 - Search for __Preferences: Color Theme__ and hit `Enter`
-- Select __Werewolf__ or __Werewolf (darker background)__ and hit `Enter` again
+- Select __Werewolf__ and hit `Enter` again
 
 ## Feedback
 
