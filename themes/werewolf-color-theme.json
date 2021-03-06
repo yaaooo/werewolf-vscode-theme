@@ -23,6 +23,7 @@
 		"list.inactiveSelectionBackground": "#800557",
 		"list.hoverBackground": "#4F0F52",
 		"list.focusBackground": "#800542",
+		"list.dropBackground": "#730f5dd7",
 		// Title
 		"titleBar.activeBackground": "#3A0A4D",
 		// Activity bar
@@ -60,11 +61,12 @@
 		"tab.inactiveForeground": "#d2b0c2",
 		"tab.activeBackground": "#470036",
 		"tab.inactiveBackground": "#2B0233",
+		"editorGroup.dropBackground": "#730f5d8c",
 		// Editor
 		"editor.background": "#1D0622",
 		"editor.lineHighlightBackground": "#300B54",
 		"editor.selectionBackground": "#540B44",
-		"editor.symbolHighlightBackground": "#ff0000",
+		"editor.symbolHighlightBackground": "#258e9695",
 		"editorIndentGuide.activeBackground": "#258e96",
 		"editor.findMatchBackground": "#806530",
 		"editor.findMatchHighlightBackground": "#8065309c",
