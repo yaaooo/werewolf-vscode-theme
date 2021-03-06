@@ -1,5 +1,10 @@
 # Change Log
 
+## 0.1.3
+
+- Add dropBackgrounds for editor and lists in general
+- Fix symbol highlighting color when clicking through linked items
+
 ## 0.1.2
 
 - Remove darker background option since difference is marginal
