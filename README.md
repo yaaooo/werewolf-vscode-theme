@@ -19,11 +19,6 @@ With VSCode up and running,
 - Search for an extension by the name of "Werewolf"
 - Click on the extension, __Install__ it, and then select __Set Color Theme__
 
-To load variations of the theme,
-- Open up the __Command Palette__ (`Cmd+Shift+P` by default)
-- Search for __Preferences: Color Theme__ and hit `Enter`
-- Select __Werewolf__ and hit `Enter` again
-
 ## Feedback
 
 Having some trouble? [Create an issue](https://github.com/yaaooo/werewolf-vscode-theme/issues/new/choose) and I'll look into your problem.

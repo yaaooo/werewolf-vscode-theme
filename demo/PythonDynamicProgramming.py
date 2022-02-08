@@ -7,7 +7,7 @@ def max_profit(k, prices):
     n = len(prices)
 
     """
-    (Optional) Additional optimisation if we
+    (Optional) Additional optimization if we
     are able to execute unlimited transactions
     """
     if k >= len(prices) * 2:
